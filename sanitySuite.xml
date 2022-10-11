@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test parallel = "classes" thread-count="2" name="High">
+  <parameter name="browserName" value="chrome"></parameter>
+    <classes>
+      <class name="com.SauceDemo.TestClass.TestCase__LogoutFunction"/>
+      <class name="com.SauceDemo.TestClass.TestCase_LoginFunctionality"/>
+    </classes>
+  </test> <!-- Test -->
+    <test parallel = "classes" thread-count="2" name="lowpriority">
+  <parameter name="browserName" value="firefox"></parameter>
+    <classes>
+      <class name="com.SauceDemo.TestClass.TestCase__LogoutFunction"/>
+      <class name="com.SauceDemo.TestClass.TestCase_LoginFunctionality"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
