@@ -120,3 +120,31 @@
 2022-10-10 06:26:45,175  INFO [TestNG-test=lowpriority-1] SauceDemoMven:67 - clicked on the login button
 2022-10-10 06:26:45,443  INFO [TestNG-test=lowpriority-1] SauceDemoMven:78 - clicked on the menu button
 2022-10-10 06:26:49,727  INFO [TestNG-test=lowpriority-2] SauceDemoMven:93 - end of the program
+2022-10-12 12:39:20,927  INFO [main] SauceDemoMven:50 - sauce demo site got opened
+2022-10-12 12:39:21,081  INFO [main] SauceDemoMven:63 - entered username
+2022-10-12 12:39:21,162  INFO [main] SauceDemoMven:65 - entered password
+2022-10-12 12:39:21,289  INFO [main] SauceDemoMven:67 - clicked on the login button
+2022-10-12 12:39:21,411  INFO [main] SauceDemoMven:78 - clicked on the menu button
+2022-10-12 12:39:21,527  INFO [main] SauceDemoMven:80 - clicked on the logout button
+2022-10-12 12:39:26,551  INFO [main] SauceDemoMven:93 - end of the program
+2022-10-12 12:39:28,384  INFO [main] SauceDemoMven:50 - sauce demo site got opened
+2022-10-12 12:39:28,471  INFO [main] SauceDemoMven:63 - entered username
+2022-10-12 12:39:28,545  INFO [main] SauceDemoMven:65 - entered password
+2022-10-12 12:39:28,648  INFO [main] SauceDemoMven:67 - clicked on the login button
+2022-10-12 12:39:28,714  INFO [main] SauceDemoMven:78 - clicked on the menu button
+2022-10-12 12:39:28,850  INFO [main] SauceDemoMven:80 - clicked on the logout button
+2022-10-12 12:39:33,857  INFO [main] SauceDemoMven:93 - end of the program
+2022-10-12 12:39:36,032  INFO [main] SauceDemoMven:50 - sauce demo site got opened
+2022-10-12 12:39:36,127  INFO [main] SauceDemoMven:63 - entered username
+2022-10-12 12:39:36,201  INFO [main] SauceDemoMven:65 - entered password
+2022-10-12 12:39:36,308  INFO [main] SauceDemoMven:67 - clicked on the login button
+2022-10-12 12:39:36,679  INFO [main] SauceDemoMven:78 - clicked on the menu button
+2022-10-12 12:39:36,795  INFO [main] SauceDemoMven:80 - clicked on the logout button
+2022-10-12 12:39:41,802  INFO [main] SauceDemoMven:93 - end of the program
+2022-10-12 12:39:45,716  INFO [main] SauceDemoMven:50 - sauce demo site got opened
+2022-10-12 12:39:45,842  INFO [main] SauceDemoMven:63 - entered username
+2022-10-12 12:39:45,930  INFO [main] SauceDemoMven:65 - entered password
+2022-10-12 12:39:46,045  INFO [main] SauceDemoMven:67 - clicked on the login button
+2022-10-12 12:39:46,404  INFO [main] SauceDemoMven:78 - clicked on the menu button
+2022-10-12 12:39:46,537  INFO [main] SauceDemoMven:80 - clicked on the logout button
+2022-10-12 12:39:51,541  INFO [main] SauceDemoMven:93 - end of the program
